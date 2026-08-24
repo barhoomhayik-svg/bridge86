@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="100" fill="#2563eb"/>
+  <g fill="none" stroke="white" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Tooth shape -->
+    <path d="M160 190 C160 130 210 108 256 120 C302 108 352 130 352 190 C360 248 344 340 326 390 C314 422 298 430 284 412 C276 400 268 388 256 388 C244 388 236 400 228 412 C214 430 198 422 186 390 C168 340 152 248 160 190Z" stroke-width="20" fill="rgba(255,255,255,0.15)"/>
+    <!-- Root lines -->
+    <line x1="226" y1="310" x2="210" y2="388" stroke-width="16"/>
+    <line x1="256" y1="320" x2="256" y2="400" stroke-width="16"/>
+    <line x1="286" y1="310" x2="302" y2="388" stroke-width="16"/>
+  </g>
+  <!-- DL monogram -->
+  <text x="256" y="230" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="96" font-weight="800" fill="white" opacity="0.95">DL</text>
+</svg>

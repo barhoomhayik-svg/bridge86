@@ -1,0 +1,1 @@
+ALTER TABLE quotation_services ADD COLUMN IF NOT EXISTS teeth_numbers text;
